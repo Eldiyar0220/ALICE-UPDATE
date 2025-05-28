@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   http: ^1.0.0
   flutter_local_notifications: ^17.2.2
-  rxdart: ^0.27.7
+  rxdart: ^0.28.0
   path_provider: ^2.0.15
   open_filex: ^4.6.0
   chopper: ^7.0.9
