@@ -26,13 +26,13 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 35
+    namespace "com.jhomlala.alice"
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
     defaultConfig {
         minSdkVersion 22
-        targetSdkVersion 35
     }
 }
 
